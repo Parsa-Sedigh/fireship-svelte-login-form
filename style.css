@@ -1,0 +1,3 @@
+/* When user focuses on a form input, we translate the label up along the y-axis and scale it down a little bit. This behavior was
+made famous by material design.
+When the input is focused, we also animate in a border from the left side, but it's not */
